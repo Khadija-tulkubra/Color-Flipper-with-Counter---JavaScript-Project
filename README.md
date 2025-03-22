@@ -9,7 +9,5 @@ This is a simple yet interactive Color Flipper built using HTML, CSS, and JavaSc
 
 🚀 Technologies Used:
 HTML5 – Structure
-
 CSS3 – Styling
-
 JavaScript – Logic for color change and counter
